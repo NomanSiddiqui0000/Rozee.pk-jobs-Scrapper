@@ -5,7 +5,7 @@
 This scraper is straightforward and specifically designed to extract job listings from the Rozee.pk website. Built in Node.js using the Puppeteer and Cheerio libraries, it efficiently collects data across multiple pages and saves it to a structured CSV file. Simply replace the job link with a city-specific URL after applying filters and change the file name to suit your needs.
 
 ## Table of Contents
-- [Title](#title)
+- [Title](#Rozee.pk Jobs Scraper)
 - [Description](#description)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
